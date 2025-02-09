@@ -1,6 +1,4 @@
-# shekhar84ya.github.io
-
-Oh hellow there!
+# Oh hellow there!
 
 This is me...
 Shekhar.
