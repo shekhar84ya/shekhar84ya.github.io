@@ -1,4 +1,4 @@
-# Oh hellow there!
+# Oh hello there!
 
 This is me...
 Shekhar.
